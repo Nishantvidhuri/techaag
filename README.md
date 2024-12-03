@@ -105,20 +105,10 @@ techaag/
 
 ---
 
-## **Screenshots**
-
-### **Product Listing Page**
-![Product Listing](https://ibb.co/QbnFKjj)
-
-### **Shopping Cart**
-![Shopping Cart](https://via.placeholder.com/600x400?text=Shopping+Cart)
-
----
-
 ## **Deployment Details**
 
 TechAag is deployed and accessible at:
-[**Live Demo**](#)
+[**Live Demo**](https://techaag-coral.vercel.app/)
 
 ---
 
